@@ -1,0 +1,28 @@
+_repo: The-Optimist-s-Good-Morning_39129
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Perin, Florence Hobart
+    alias: Perin, Mrs. George L.
+    birthdate: 1869
+    gutenberg_agent_id: '39856'
+    url: http://www.gutenberg.org/2009/agents/39856
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2012-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39129'
+  lccn: 07034790
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quotations, English'
+- !lcc 'PN'
+- !lcsh 'Calendars'
+title: The Optimist's Good Morning
+url: http://www.gutenberg.org/ebooks/39129
